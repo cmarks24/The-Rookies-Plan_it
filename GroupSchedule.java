@@ -12,10 +12,10 @@ public class GroupSchedule {
         //store in group schedule
         return schedule;
     }
-    public char formatGroupSchedule(schedule s,boolean weekly ){
+    public void formatGroupSchedule(schedule s,boolean weekly ){
         //check conditional
         //use format to print on screen
-        return schedule;
+        return 0;
     }
 
     public char assertTimeBlocks(schedule s, int color[]){
