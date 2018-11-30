@@ -15,10 +15,10 @@ char list;
         return invite;
     }
 
-    public char showGroupMembers() {
+    public void showGroupMembers() {
         //fetch group members store in array
         //print to screen member list [comma format]
-        return list;
+        return 0;
     }
 }
 
