@@ -18,20 +18,20 @@ public class GroupSchedule {
         return 0;
     }
 
-    public char assertTimeBlocks(schedule s, int color[]){
+    public void assertTimeBlocks(schedule s, int color[]){
         //check for overlaps
         //assert visual blocks
         //color blocks
-        return time;
+        return 0;
     }
     public char colorAndGrayBlocks(events e, int color){
 
-        //color in time block with solor from array
+        //color in time block with color from array
 
         return greyscale;
     }
 
-    public char fillBlockPopUps(){
+    public void fillBlockPopUps(){
         //on click, fetch event from group schedule
         //fetch data
         //display in window
