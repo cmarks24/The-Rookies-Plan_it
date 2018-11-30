@@ -6,12 +6,14 @@ char list;
         //delete member from group in database
         //delete group from users list
         //refresh page
+        delete= false;
         return delete;
     }
 
     public boolean sendGroupRequest(){
         //get username from user
         //add user to group list
+        invite=false;
         return invite;
     }
 
